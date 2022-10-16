@@ -113,4 +113,7 @@ public class LoginPage extends BaseElementFinder {
         }
         return false;
     }
+    public void logOut(){
+        System.out.println("logout");
+    }
 }
