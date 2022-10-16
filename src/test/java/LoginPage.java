@@ -116,4 +116,8 @@ public class LoginPage extends BaseElementFinder {
     public void logOut(){
         System.out.println("logout");
     }
+
+    public void latest(){
+        System.out.println("logout");
+    }
 }
